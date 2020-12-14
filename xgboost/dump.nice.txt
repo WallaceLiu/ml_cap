@@ -1,0 +1,14 @@
+booster[0]:
+0:[odor=pungent] yes=2,no=1
+	1:[stalk-root=cup] yes=4,no=3
+		3:leaf=1.71217716
+		4:leaf=-1.70044053
+	2:[spore-print-color=orange] yes=6,no=5
+		5:leaf=-1.94070864
+		6:leaf=1.85964918
+booster[1]:
+0:[stalk-root=missing] yes=2,no=1
+	1:[odor=pungent] yes=4,no=3
+		3:leaf=0.78471756
+		4:leaf=-0.968530357
+	2:leaf=-6.23624468
