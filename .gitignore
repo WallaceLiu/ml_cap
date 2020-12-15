@@ -28,7 +28,7 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
+#  Usually these files are written by 101001100 python script from 101001100 template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# idea
+.idea
+
+# sys
+.DS_Store
+
+# project
+index/
+data/
+log/socrates-faiss-web-api/*.log
