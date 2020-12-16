@@ -5,7 +5,6 @@ import math
 import argparse
 import pygraphviz as pyg
 
-
 class Node:
     """
     C45的决策树结点，每个结点需要包含以下信息：
